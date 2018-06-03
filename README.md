@@ -4,8 +4,8 @@ This is an app that can predict future weather from previous weather data.
 
 Dependencies
 
- Django==1.11
- django-crispy-forms==1.7.2
+ Django==1.11,
+ django-crispy-forms==1.7.2,
  pytz==2018.4
 
 Instructions
