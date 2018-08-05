@@ -17,7 +17,7 @@ Instructions
    source bin/activate
 
    #Now download/clone the folder.
-   #Copy src and static_in_env form downloaded folder and paste it inside the AutoAnsChecker folder.
+   #Copy src and static_in_env form downloaded folder and paste it inside the WeatherPrediction folder.
    #Create a new directory named "media_root" inside the static_in_env folder.
 
    Finally run the following command.
